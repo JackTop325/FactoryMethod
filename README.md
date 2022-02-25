@@ -7,8 +7,8 @@ By: Jaelen Wright, Jackie Jiang
 Here we will implement the Factory Method Pattern by creating a Vehicle Factory that will allow us to get a class from a group of classes that share the same super class.
 
 ---
-## UML Diagrams
-Basic UML:
+## UML Diagram
+UML:
 ![](images/UML.png)
 
 ---
