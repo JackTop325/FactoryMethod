@@ -26,5 +26,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'FactoryMethod.Main'
+    mainClass = 'FactoryMethodExample1.Main'
 }

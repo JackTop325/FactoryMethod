@@ -1,4 +1,4 @@
-package FactoryMethod;
+package FactoryMethodExample2;
 
 public class Plane implements Vehicle{
     private double weight;
