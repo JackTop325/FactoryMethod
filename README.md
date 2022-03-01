@@ -8,7 +8,10 @@ Here we will implement the Factory Method Pattern by creating a Vehicle Factory 
 
 ---
 ## UML Diagram
-UML:
+UML for Example 1:
+![](images/UML.png)
+
+UML for Example 2:
 
 ![](images/UML(2).png)
 
