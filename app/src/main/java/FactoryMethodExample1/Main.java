@@ -13,7 +13,7 @@ public class Main {
         //get an object of Car and call its name method.
         Vehicle vehicle2 = vehicleFactory.getVehicle("Car");
   
-        //call name method of Car
+        //call name method of Car 
         vehicle2.name();
   
         //get an object of Plane and call its name method.
